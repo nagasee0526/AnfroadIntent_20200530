@@ -28,5 +28,23 @@
         android:layout_height="wrap_content"
         android:text="전화연결 걸기(CALL)"/>
 
+    <Button
+        android:id="@+id/SendtoBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="문자보내기(SENDTO)"/>
+
+    <Button
+        android:id="@+id/NaverLinkBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="네이버 웹 링크"/>
+
+    <Button
+        android:id="@+id/KaKaoStoreLinkBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="카카오 플레이스토어  링크"/>
+
 
 </LinearLayout>
